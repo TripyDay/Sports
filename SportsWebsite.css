@@ -1,0 +1,315 @@
+#Background {
+    z-index: -1;
+    position: absolute;
+    left: 0em;
+    bottom: 0em;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(73, 143, 223);
+}
+
+a:link {
+    color: goldenrod;
+}
+  
+a:visited {
+    color: rgb(89, 108, 96);
+}
+
+a:hover {
+    color: gold;
+}
+
+#Contact {
+    z-index: 2;
+    position: absolute;
+    left: 61em;
+    bottom: 24.5em;
+    width: 6em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#Password {
+    z-index: 2;
+    position: absolute;
+    left: 66.5em;
+    bottom: 27em;
+    width: 11em;
+    height: 3em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+#PasswordInput{
+    position: relative;
+    z-index: 2;
+
+}
+
+#Username {
+    z-index: 2;
+    position: absolute;
+    left: 66.5em;
+    bottom: 30.5em;
+    width: 11em;
+    height: 3em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+#ButtonSubmit{
+    position: absolute;
+    left: -11.5em;
+    bottom: 37px;
+    width: 11em;
+    height: 22px;
+    border: solid rgb(73, 143, 223);
+    border-radius: 8px;
+    background: salmon;
+}
+
+#SportsNews{
+    z-index: 2;
+    position: absolute;
+    left: 8.5em;
+    bottom: 24.5em;
+    width: 6em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#Settings {
+    z-index: 2;
+    position: absolute;
+    left: 53.5em;
+    bottom: 24.5em;
+    width: 6em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#Soccer {
+    z-index: 2;
+    position: absolute;
+    left: 46em;
+    bottom: 24.5em;
+    width: 6em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#youtube {
+    z-index: 3;
+    position: absolute;
+    left: 14em;
+    bottom: 3em;
+    width: 6em;
+    height: 2em;
+}
+
+#UFC {
+    z-index: 2;
+    position: absolute;
+    left: 38.5em;
+    bottom: 24.5em;
+    width: 6em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#Tennis {
+    z-index: 2;
+    position: absolute;
+    left: 31em;
+    bottom: 24.5em;
+    width: 6em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#NBA {
+    z-index: 2;
+    position: absolute;
+    left: 23.5em;
+    bottom: 24.5em;
+    width: 6em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#HandBall {
+    z-index: 2;
+    position: absolute;
+    left: 16em;
+    bottom: 24.5em;
+    width: 6em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#Home {
+    z-index: 2;
+    position: absolute;
+    left: 1em;
+    bottom: 24.5em;
+    width: 6em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#About {
+    z-index: 2;
+    position: absolute;
+    left: 54em;
+    bottom: 24.5em;
+    width: 5.5em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#Context {
+    z-index: 2;
+    position: absolute;
+    left: 0em;
+    top: 18em;
+    width: 55em;
+    height: 3em;
+} 
+
+p{
+    position: absolute;
+    z-index: 2;
+    border: solid black;
+    background-color: salmon;
+    border-radius: 6.5px;
+    bottom: -11.5em;
+    width: 58em;
+    top: -66.8px;
+}
+
+#Terms {
+    z-index: 2;
+    position: absolute;
+    left: 68.5em;
+    bottom: 24.5em;
+    width: 8em;
+    height: 2em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+#Greeting {
+    z-index: 2;
+    position: absolute;
+    left: 1em;
+    bottom: 511px;
+    width: 9em;
+    height: 22px;
+    border: solid black;
+    background: gray;
+    border-radius: 6.5px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+#explaination{
+    z-index: 2;
+    position: absolute;
+    left: 65em;
+    bottom: 4.5em;
+    width: 12em;
+    height: 10em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+}
+
+#explainationTitle{
+    z-index: 2;
+    position: absolute;
+    left: 65em;
+    bottom: 16.5em;
+    width: 12em;
+    height: 4.5em;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+
+}
+
+#Header {
+    z-index: 2;
+    position: absolute;
+    left: 40%;
+    width: 10em;
+    top: 39px;
+    height: 80px;
+    background-color: salmon;
+    border: solid black;
+    border-radius: 6.5px;
+    text-align: center;
+    text-decoration: underline;
+    -webkit-text-stroke: thin;
+    font-family: cursive;
+}
+
+#Headerbackground {
+    z-index: 1;
+    position: absolute;
+    left: -0.25em;
+    bottom: 23.2em;
+    width: 80em;
+    height: 11em;
+    background-color: #47cb5a;
+
+}
