@@ -85,8 +85,8 @@ a:hover {
 #SportsNews{
     z-index: 2;
     position: absolute;
-    left: 5.5em;
-    bottom: 24.5em;
+    left: 8.5em;
+    bottom: 21.5em;
     width: 6em;
     height: 2em;
     background-color: salmon;
@@ -98,8 +98,8 @@ a:hover {
 #Settings {
     z-index: 2;
     position: absolute;
-    left: 50.5em;
-    bottom: 24.5em;
+    left: 12.5em;
+    bottom: 28.5em;
     width: 6em;
     height: 2em;
     background-color: salmon;
@@ -248,7 +248,7 @@ p{
     z-index: 2;
     position: absolute;
     left: 1em;
-    bottom: 511px;
+    bottom: 466px;
     width: 9em;
     height: 22px;
     border: solid black;
@@ -264,7 +264,7 @@ p{
     z-index: 2;
     position: absolute;
     left: 65em;
-    bottom: 4.5em;
+    bottom: 3.5em;
     width: 12em;
     height: 10em;
     background-color: salmon;
@@ -277,7 +277,7 @@ p{
     z-index: 2;
     position: absolute;
     left: 65em;
-    bottom: 16.5em;
+    bottom: 14.5em;
     width: 12em;
     height: 4.5em;
     background-color: salmon;
