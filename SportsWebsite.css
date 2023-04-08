@@ -24,7 +24,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 61em;
-    bottom: 24.5em;
+    bottom: 21.5em;
     width: 6em;
     height: 2em;
     background-color: salmon;
@@ -37,7 +37,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 66.5em;
-    bottom: 27em;
+    bottom: 24em;
     width: 11em;
     height: 3em;
     background-color: salmon;
@@ -59,7 +59,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 66.5em;
-    bottom: 30.5em;
+    bottom: 27.5em;
     width: 11em;
     height: 3em;
     background-color: salmon;
@@ -74,7 +74,7 @@ a:hover {
 #ButtonSubmit{
     position: absolute;
     left: -11.5em;
-    bottom: 37px;
+    bottom: 34px;
     width: 11em;
     height: 22px;
     border: solid rgb(73, 143, 223);
@@ -85,7 +85,7 @@ a:hover {
 #SportsNews{
     z-index: 2;
     position: absolute;
-    left: 8.5em;
+    left: 5.5em;
     bottom: 24.5em;
     width: 6em;
     height: 2em;
@@ -98,7 +98,7 @@ a:hover {
 #Settings {
     z-index: 2;
     position: absolute;
-    left: 53.5em;
+    left: 50.5em;
     bottom: 24.5em;
     width: 6em;
     height: 2em;
@@ -112,7 +112,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 46em;
-    bottom: 24.5em;
+    bottom: 21.5em;
     width: 6em;
     height: 2em;
     background-color: salmon;
@@ -134,7 +134,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 38.5em;
-    bottom: 24.5em;
+    bottom: 21.5em;
     width: 6em;
     height: 2em;
     background-color: salmon;
@@ -147,7 +147,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 31em;
-    bottom: 24.5em;
+    bottom: 21.5em;
     width: 6em;
     height: 2em;
     background-color: salmon;
@@ -160,7 +160,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 23.5em;
-    bottom: 24.5em;
+    bottom: 21.5em;
     width: 6em;
     height: 2em;
     background-color: salmon;
@@ -173,7 +173,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 16em;
-    bottom: 24.5em;
+    bottom: 21.5em;
     width: 6em;
     height: 2em;
     background-color: salmon;
@@ -186,7 +186,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 1em;
-    bottom: 24.5em;
+    bottom: 21.5em;
     width: 6em;
     height: 2em;
     background-color: salmon;
@@ -199,7 +199,7 @@ a:hover {
     z-index: 2;
     position: absolute;
     left: 54em;
-    bottom: 24.5em;
+    bottom: 21.5em;
     width: 5.5em;
     height: 2em;
     background-color: salmon;
@@ -232,7 +232,7 @@ p{
     z-index: 2;
     position: absolute;
     left: 68.5em;
-    bottom: 24.5em;
+    bottom: 21.5em;
     width: 8em;
     height: 2em;
     background-color: salmon;
@@ -307,7 +307,7 @@ p{
     z-index: 1;
     position: absolute;
     left: -0.25em;
-    bottom: 23.2em;
+    bottom: 20.2em;
     width: 80em;
     height: 11em;
     background-color: #47cb5a;
